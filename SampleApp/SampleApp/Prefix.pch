@@ -1,0 +1,17 @@
+//
+//  Prefix.pch
+//  CardConnectConsumerSDK
+//
+//  Created by Nick Rimer on 4/17/17.
+//  Copyright © 2017 iMobile3 LLC. All rights reserved.
+//
+
+#ifndef Prefix_pch
+#define Prefix_pch
+
+#import <CardConnectConsumerSDK/CardConnectConsumerSDK.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Prefix_pch */
